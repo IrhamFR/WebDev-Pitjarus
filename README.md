@@ -10,7 +10,7 @@
 2. Make sure both Port(s) is appeared, then click MySQL's Admin button.
 3. You'll be redirected to 'http://localhost/phpmyadmin/'. (this link for import database)
 4. Click 'New' on top of left panel to create new database.
-5. On database name column, input 'ptp table' and click Create.
+5. On database name column, input 'ptp_table' and click Create.
 6. After that, click on new database then click on Import tab.
 7. Choose file 'dev_test114.sql' in this folder, scroll down and click Import.
 8. All setting is done. Go back to the code, and repeat the third step of User Guide.
